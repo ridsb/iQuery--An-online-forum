@@ -101,10 +101,6 @@ We welcome contributions to enhance iQuery! Here's how you can help:
     ```
 7. **Create a Pull Request:** Go to the original repository on GitHub and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
 For any inquiries, issues, or suggestions, feel free to reach out:

@@ -105,7 +105,6 @@ We welcome contributions to enhance iQuery! Here's how you can help:
 
 For any inquiries, issues, or suggestions, feel free to reach out:
 
-- **Email:** your-email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **GitHub:** (https://github.com/ridsb)
 
 Thank you for being a part of iQuery! Together, let's make coding easier and more enjoyable for everyone.
